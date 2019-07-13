@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Sources:
-    - Vox: "http://deanattali.com/beautiful-jekyll/"
+    - Vox: "vox_07_13_19"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
 
