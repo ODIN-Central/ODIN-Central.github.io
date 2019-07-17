@@ -1,4 +1,4 @@
-Article_URL
+Washington Examiner
 
 [Article 1](https://www.washingtonexaminer.com/news/kamala-harris-campaign-holds-fundraiser-with-jeffrey-epsteins-law-firm-on-same-day-she-condemns-them)
 
