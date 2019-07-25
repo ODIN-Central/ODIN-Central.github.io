@@ -1,4 +1,4 @@
-#Washington Examiner Sample
+# Washington Examiner Sample
 
 [Article 1](https://www.washingtonexaminer.com/news/trump-officially-issues-executive-order-to-tally-citizens-through-the-commerce-department)
 
