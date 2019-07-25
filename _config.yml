@@ -22,8 +22,10 @@ description: Random Samples for Objectivity Review
 navbar-links:
   About Me: "aboutme"
   Sources:
-    - Vox: "sources/vox_07_17_19"
+    - Breitbart: "sources/breitbart_07_25_19"
+    - The Daily Wire: "sources/breitbart_07_25_19"
     - NYT: "sources/nyt_07_17_19"
+    - Vox: "sources/vox_07_17_19"
     - WSJ: "sources/wsj_07_17_19"
     - Washington Examiner: "sources/examiner_07_17_19"
 
