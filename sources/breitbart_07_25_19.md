@@ -1,4 +1,4 @@
-#Breitbart Sample
+# Breitbart Sample
 
 [Article 1](https://www.breitbart.com/tech/2019/07/15/watch-university-of-miami-students-sign-hoax-petition-to-ban-offensive-hurricanes-mascot/)
 
