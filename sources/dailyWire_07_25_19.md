@@ -1,4 +1,4 @@
-#Daily Wire Sample
+# Daily Wire Sample
 
 [Article 1](https://www.dailywire.com/news/49565/drug-smuggler-arrested-spain-will-leave-you-hank-berrien)
 
